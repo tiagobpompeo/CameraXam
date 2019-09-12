@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tbenaias/Documents/Projects/CameraXam/CameraXam/CameraXam.csproj": {}
+  },
+  "projects": {
+    "/Users/tbenaias/Documents/Projects/CameraXam/CameraXam/CameraXam.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tbenaias/Documents/Projects/CameraXam/CameraXam/CameraXam.csproj",
+        "projectName": "CameraXam",
+        "projectPath": "/Users/tbenaias/Documents/Projects/CameraXam/CameraXam/CameraXam.csproj",
+        "packagesPath": "/Users/tbenaias/.nuget/packages/",
+        "outputPath": "/Users/tbenaias/Documents/Projects/CameraXam/CameraXam/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/tbenaias/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MvvmLightLibs": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[3.0.0.12, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[4.0.1.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
