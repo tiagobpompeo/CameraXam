@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BA43C71B-9803-433B-A29A-11C287377D50}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CameraXam/MainPageViewModel.cs">
+    <Files>
+      <File FileName="CameraXam/MainPage.xaml" Line="15" Column="32" />
+      <File FileName="CameraXam/MainPageViewModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CameraXam" expanded="True">
+            <Node name="CameraXam" expanded="True">
+              <Node name="MainPageViewModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CameraXam.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.googlepixel" />
+  <MonoDevelop.Ide.ItemProperties.CameraXam.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2B303672-EBAA-4FCB-982D-C9BFD1CD6B7B" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
